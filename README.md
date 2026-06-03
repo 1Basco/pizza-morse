@@ -1,5 +1,5 @@
 # pizza-morse
-
+This project make heavily usage of AI generated code, since is just for a simples research quest.
 A morse-code chat. One button, one tone, one rhythm.
 
 ## Stack
